@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sejal\\Downloads\\ElectronicGadgetCsharpAssesment\\ElectronicGadgetShop.Entity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82925321-7D50-4D13-A2F8-C35629B7EE03}|ElectronicGadgetShop.Entity\\ElectronicGadgetShop.Entity.csproj|C:\\Users\\Sejal\\Downloads\\ElectronicGadgetCsharpAssesment\\ElectronicGadgetShop.Entity\\electronicgadgetshop.entity\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82925321-7D50-4D13-A2F8-C35629B7EE03}|ElectronicGadgetShop.Entity\\ElectronicGadgetShop.Entity.csproj|solutionrelative:electronicgadgetshop.entity\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82925321-7D50-4D13-A2F8-C35629B7EE03}|ElectronicGadgetShop.Entity\\ElectronicGadgetShop.Entity.csproj|C:\\Users\\Sejal\\Downloads\\ElectronicGadgetCsharpAssesment\\ElectronicGadgetShop.Entity\\electronicgadgetshop.entity\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82925321-7D50-4D13-A2F8-C35629B7EE03}|ElectronicGadgetShop.Entity\\ElectronicGadgetShop.Entity.csproj|solutionrelative:electronicgadgetshop.entity\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82925321-7D50-4D13-A2F8-C35629B7EE03}|ElectronicGadgetShop.Entity\\ElectronicGadgetShop.Entity.csproj|C:\\Users\\Sejal\\Downloads\\ElectronicGadgetCsharpAssesment\\ElectronicGadgetShop.Entity\\electronicgadgetshop.entity\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82925321-7D50-4D13-A2F8-C35629B7EE03}|ElectronicGadgetShop.Entity\\ElectronicGadgetShop.Entity.csproj|solutionrelative:electronicgadgetshop.entity\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82925321-7D50-4D13-A2F8-C35629B7EE03}|ElectronicGadgetShop.Entity\\ElectronicGadgetShop.Entity.csproj|C:\\Users\\Sejal\\Downloads\\ElectronicGadgetCsharpAssesment\\ElectronicGadgetShop.Entity\\electronicgadgetshop.entity\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82925321-7D50-4D13-A2F8-C35629B7EE03}|ElectronicGadgetShop.Entity\\ElectronicGadgetShop.Entity.csproj|solutionrelative:electronicgadgetshop.entity\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82925321-7D50-4D13-A2F8-C35629B7EE03}|ElectronicGadgetShop.Entity\\ElectronicGadgetShop.Entity.csproj|C:\\Users\\Sejal\\Downloads\\ElectronicGadgetCsharpAssesment\\ElectronicGadgetShop.Entity\\electronicgadgetshop.entity\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82925321-7D50-4D13-A2F8-C35629B7EE03}|ElectronicGadgetShop.Entity\\ElectronicGadgetShop.Entity.csproj|solutionrelative:electronicgadgetshop.entity\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874CFD4C-B3C8-443F-9C7C-D3BC3ED87D32}|..\\ElectronicGadgetShop.BuisnessLayer\\ElectronicGadgetShop.BuisnessLayer\\ElectronicGadgetShop.BuisnessLayer.csproj|c:\\users\\sejal\\downloads\\electronicgadgetcsharpassesment\\electronicgadgetshop.buisnesslayer\\electronicgadgetshop.buisnesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874CFD4C-B3C8-443F-9C7C-D3BC3ED87D32}|..\\ElectronicGadgetShop.BuisnessLayer\\ElectronicGadgetShop.BuisnessLayer\\ElectronicGadgetShop.BuisnessLayer.csproj|c:\\users\\sejal\\downloads\\electronicgadgetcsharpassesment\\electronicgadgetshop.buisnesslayer\\electronicgadgetshop.buisnesslayer\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874CFD4C-B3C8-443F-9C7C-D3BC3ED87D32}|..\\ElectronicGadgetShop.BuisnessLayer\\ElectronicGadgetShop.BuisnessLayer\\ElectronicGadgetShop.BuisnessLayer.csproj|c:\\users\\sejal\\downloads\\electronicgadgetcsharpassesment\\electronicgadgetshop.buisnesslayer\\electronicgadgetshop.buisnesslayer\\ordeedetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874CFD4C-B3C8-443F-9C7C-D3BC3ED87D32}|..\\ElectronicGadgetShop.BuisnessLayer\\ElectronicGadgetShop.BuisnessLayer\\ElectronicGadgetShop.BuisnessLayer.csproj|c:\\users\\sejal\\downloads\\electronicgadgetcsharpassesment\\electronicgadgetshop.buisnesslayer\\electronicgadgetshop.buisnesslayer\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874CFD4C-B3C8-443F-9C7C-D3BC3ED87D32}|..\\ElectronicGadgetShop.BuisnessLayer\\ElectronicGadgetShop.BuisnessLayer\\ElectronicGadgetShop.BuisnessLayer.csproj|c:\\users\\sejal\\downloads\\electronicgadgetcsharpassesment\\electronicgadgetshop.buisnesslayer\\electronicgadgetshop.buisnesslayer\\productsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\ElectronicGadgetCsharpAssesment\\ElectronicGadgetShop.Entity\\ElectronicGadgetShop.Entity\\Inventory.cs",
+              "RelativeDocumentMoniker": "ElectronicGadgetShop.Entity\\Inventory.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\ElectronicGadgetCsharpAssesment\\ElectronicGadgetShop.Entity\\ElectronicGadgetShop.Entity\\Inventory.cs",
+              "RelativeToolTip": "ElectronicGadgetShop.Entity\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T05:31:32.771Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrdeeDetailService.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\ElectronicGadgetCsharpAssesment\\ElectronicGadgetShop.BuisnessLayer\\ElectronicGadgetShop.BuisnessLayer\\OrdeeDetailService.cs",
+              "RelativeDocumentMoniker": "..\\ElectronicGadgetShop.BuisnessLayer\\ElectronicGadgetShop.BuisnessLayer\\OrdeeDetailService.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\ElectronicGadgetCsharpAssesment\\ElectronicGadgetShop.BuisnessLayer\\ElectronicGadgetShop.BuisnessLayer\\OrdeeDetailService.cs",
+              "RelativeToolTip": "..\\ElectronicGadgetShop.BuisnessLayer\\ElectronicGadgetShop.BuisnessLayer\\OrdeeDetailService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T13:57:31.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\ElectronicGadgetCsharpAssesment\\ElectronicGadgetShop.BuisnessLayer\\ElectronicGadgetShop.BuisnessLayer\\OrderService.cs",
+              "RelativeDocumentMoniker": "..\\ElectronicGadgetShop.BuisnessLayer\\ElectronicGadgetShop.BuisnessLayer\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\ElectronicGadgetCsharpAssesment\\ElectronicGadgetShop.BuisnessLayer\\ElectronicGadgetShop.BuisnessLayer\\OrderService.cs",
+              "RelativeToolTip": "..\\ElectronicGadgetShop.BuisnessLayer\\ElectronicGadgetShop.BuisnessLayer\\OrderService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T13:57:05.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\ElectronicGadgetCsharpAssesment\\ElectronicGadgetShop.BuisnessLayer\\ElectronicGadgetShop.BuisnessLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\ElectronicGadgetShop.BuisnessLayer\\ElectronicGadgetShop.BuisnessLayer\\Class1.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\ElectronicGadgetCsharpAssesment\\ElectronicGadgetShop.BuisnessLayer\\ElectronicGadgetShop.BuisnessLayer\\Class1.cs",
+              "RelativeToolTip": "..\\ElectronicGadgetShop.BuisnessLayer\\ElectronicGadgetShop.BuisnessLayer\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:14:45.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductsService.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\ElectronicGadgetCsharpAssesment\\ElectronicGadgetShop.BuisnessLayer\\ElectronicGadgetShop.BuisnessLayer\\ProductsService.cs",
+              "RelativeDocumentMoniker": "..\\ElectronicGadgetShop.BuisnessLayer\\ElectronicGadgetShop.BuisnessLayer\\ProductsService.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\ElectronicGadgetCsharpAssesment\\ElectronicGadgetShop.BuisnessLayer\\ElectronicGadgetShop.BuisnessLayer\\ProductsService.cs",
+              "RelativeToolTip": "..\\ElectronicGadgetShop.BuisnessLayer\\ElectronicGadgetShop.BuisnessLayer\\ProductsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:16:55.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\ElectronicGadgetCsharpAssesment\\ElectronicGadgetShop.Entity\\ElectronicGadgetShop.Entity\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "ElectronicGadgetShop.Entity\\OrderDetails.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\ElectronicGadgetCsharpAssesment\\ElectronicGadgetShop.Entity\\ElectronicGadgetShop.Entity\\OrderDetails.cs",
+              "RelativeToolTip": "ElectronicGadgetShop.Entity\\OrderDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T05:29:35.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\ElectronicGadgetCsharpAssesment\\ElectronicGadgetShop.Entity\\ElectronicGadgetShop.Entity\\Orders.cs",
+              "RelativeDocumentMoniker": "ElectronicGadgetShop.Entity\\Orders.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\ElectronicGadgetCsharpAssesment\\ElectronicGadgetShop.Entity\\ElectronicGadgetShop.Entity\\Orders.cs",
+              "RelativeToolTip": "ElectronicGadgetShop.Entity\\Orders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T05:26:21.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\ElectronicGadgetCsharpAssesment\\ElectronicGadgetShop.Entity\\ElectronicGadgetShop.Entity\\Products.cs",
+              "RelativeDocumentMoniker": "ElectronicGadgetShop.Entity\\Products.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\ElectronicGadgetCsharpAssesment\\ElectronicGadgetShop.Entity\\ElectronicGadgetShop.Entity\\Products.cs",
+              "RelativeToolTip": "ElectronicGadgetShop.Entity\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T05:24:09.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\ElectronicGadgetCsharpAssesment\\ElectronicGadgetShop.Entity\\ElectronicGadgetShop.Entity\\Class1.cs",
+              "RelativeDocumentMoniker": "ElectronicGadgetShop.Entity\\Class1.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\ElectronicGadgetCsharpAssesment\\ElectronicGadgetShop.Entity\\ElectronicGadgetShop.Entity\\Class1.cs",
+              "RelativeToolTip": "ElectronicGadgetShop.Entity\\Class1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:27:20.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InventoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\ElectronicGadgetCsharpAssesment\\ElectronicGadgetShop.BuisnessLayer\\ElectronicGadgetShop.BuisnessLayer\\InventoryService.cs",
+              "RelativeDocumentMoniker": "..\\ElectronicGadgetShop.BuisnessLayer\\ElectronicGadgetShop.BuisnessLayer\\InventoryService.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\ElectronicGadgetCsharpAssesment\\ElectronicGadgetShop.BuisnessLayer\\ElectronicGadgetShop.BuisnessLayer\\InventoryService.cs",
+              "RelativeToolTip": "..\\ElectronicGadgetShop.BuisnessLayer\\ElectronicGadgetShop.BuisnessLayer\\InventoryService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T13:58:01.099Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

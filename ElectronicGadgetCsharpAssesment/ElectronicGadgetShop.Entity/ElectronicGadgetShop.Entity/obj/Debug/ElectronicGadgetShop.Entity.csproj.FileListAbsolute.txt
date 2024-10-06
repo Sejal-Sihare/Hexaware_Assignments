@@ -1,0 +1,6 @@
+C:\Users\Sejal\Downloads\ElectronicGadgetCsharpAssesment\ElectronicGadgetShop.Entity\ElectronicGadgetShop.Entity\bin\Debug\ElectronicGadgetShop.Entity.dll
+C:\Users\Sejal\Downloads\ElectronicGadgetCsharpAssesment\ElectronicGadgetShop.Entity\ElectronicGadgetShop.Entity\bin\Debug\ElectronicGadgetShop.Entity.pdb
+C:\Users\Sejal\Downloads\ElectronicGadgetCsharpAssesment\ElectronicGadgetShop.Entity\ElectronicGadgetShop.Entity\obj\Debug\ElectronicGadgetShop.Entity.csproj.AssemblyReference.cache
+C:\Users\Sejal\Downloads\ElectronicGadgetCsharpAssesment\ElectronicGadgetShop.Entity\ElectronicGadgetShop.Entity\obj\Debug\ElectronicGadgetShop.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Sejal\Downloads\ElectronicGadgetCsharpAssesment\ElectronicGadgetShop.Entity\ElectronicGadgetShop.Entity\obj\Debug\ElectronicGadgetShop.Entity.dll
+C:\Users\Sejal\Downloads\ElectronicGadgetCsharpAssesment\ElectronicGadgetShop.Entity\ElectronicGadgetShop.Entity\obj\Debug\ElectronicGadgetShop.Entity.pdb
