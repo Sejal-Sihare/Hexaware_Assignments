@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|c:\\users\\sejal\\downloads\\casestudyecommerceapplication\\ecommerceapplication-buisnesslayer\\ecommerceapplication-buisnesslayer\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|solutionrelative:ecommerceapplication-buisnesslayer\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\ecommerceapplication-buisnesslayer\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|solutionrelative:ecommerceapplication-buisnesslayer\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\ecommerceapplication-buisnesslayer\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|solutionrelative:ecommerceapplication-buisnesslayer\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\ecommerceapplication-buisnesslayer\\repository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|solutionrelative:ecommerceapplication-buisnesslayer\\repository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\ecommerceapplication-buisnesslayer\\repository\\iorderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|solutionrelative:ecommerceapplication-buisnesslayer\\repository\\iorderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\ecommerceapplication-buisnesslayer\\repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|solutionrelative:ecommerceapplication-buisnesslayer\\repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\ecommerceapplication-buisnesslayer\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|solutionrelative:ecommerceapplication-buisnesslayer\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\ecommerceapplication-buisnesslayer\\repository\\orderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|solutionrelative:ecommerceapplication-buisnesslayer\\repository\\orderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\ecommerceapplication-buisnesslayer\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|solutionrelative:ecommerceapplication-buisnesslayer\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\ecommerceapplication-buisnesslayer\\repository\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|solutionrelative:ecommerceapplication-buisnesslayer\\repository\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\ecommerceapplication-buisnesslayer\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|solutionrelative:ecommerceapplication-buisnesslayer\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\ecommerceapplication-buisnesslayer\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|solutionrelative:ecommerceapplication-buisnesslayer\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\ecommerceapplication-buisnesslayer\\services\\orderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|solutionrelative:ecommerceapplication-buisnesslayer\\services\\orderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\ecommerceapplication-buisnesslayer\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|solutionrelative:ecommerceapplication-buisnesslayer\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\ecommerceapplication-buisnesslayer\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|solutionrelative:ecommerceapplication-buisnesslayer\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\ecommerceapplication-buisnesslayer\\services\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|solutionrelative:ecommerceapplication-buisnesslayer\\services\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\ecommerceapplication-buisnesslayer\\services\\iorderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|solutionrelative:ecommerceapplication-buisnesslayer\\services\\iorderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\ecommerceapplication-buisnesslayer\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|solutionrelative:ecommerceapplication-buisnesslayer\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\ecommerceapplication-buisnesslayer\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|solutionrelative:ecommerceapplication-buisnesslayer\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\ecommerceapplication-buisnesslayer\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|solutionrelative:ecommerceapplication-buisnesslayer\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\ecommerceapplication-buisnesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|solutionrelative:ecommerceapplication-buisnesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceApplication-BuisnessLayer\\Repository\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "EcommerceApplication-BuisnessLayer\\Repository\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:19:04.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Repository\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceApplication-BuisnessLayer\\Repository\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Repository\\CustomerRepository.cs",
+              "RelativeToolTip": "EcommerceApplication-BuisnessLayer\\Repository\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:18:21.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Services\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "EcommerceApplication-BuisnessLayer\\Services\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Services\\ICustomerService.cs",
+              "RelativeToolTip": "EcommerceApplication-BuisnessLayer\\Services\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:20:18.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Repository\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceApplication-BuisnessLayer\\Repository\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Repository\\ICustomerRepository.cs",
+              "RelativeToolTip": "EcommerceApplication-BuisnessLayer\\Repository\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:15:39.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "EcommerceApplication-BuisnessLayer\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Services\\CustomerService.cs",
+              "RelativeToolTip": "EcommerceApplication-BuisnessLayer\\Services\\CustomerService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:21:42.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOrderItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Repository\\IOrderItemRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceApplication-BuisnessLayer\\Repository\\IOrderItemRepository.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Repository\\IOrderItemRepository.cs",
+              "RelativeToolTip": "EcommerceApplication-BuisnessLayer\\Repository\\IOrderItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:17:46.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Repository\\OrderItemRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceApplication-BuisnessLayer\\Repository\\OrderItemRepository.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Repository\\OrderItemRepository.cs",
+              "RelativeToolTip": "EcommerceApplication-BuisnessLayer\\Repository\\OrderItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:19:25.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Repository\\ICartRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceApplication-BuisnessLayer\\Repository\\ICartRepository.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Repository\\ICartRepository.cs",
+              "RelativeToolTip": "EcommerceApplication-BuisnessLayer\\Repository\\ICartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:16:50.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceApplication-BuisnessLayer\\Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "EcommerceApplication-BuisnessLayer\\Repository\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:16:17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Repository\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceApplication-BuisnessLayer\\Repository\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Repository\\IOrderRepository.cs",
+              "RelativeToolTip": "EcommerceApplication-BuisnessLayer\\Repository\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:16:32.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Repository\\CartRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceApplication-BuisnessLayer\\Repository\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Repository\\CartRepository.cs",
+              "RelativeToolTip": "EcommerceApplication-BuisnessLayer\\Repository\\CartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:19:46.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "EcommerceApplication-BuisnessLayer\\Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Services\\CartService.cs",
+              "RelativeToolTip": "EcommerceApplication-BuisnessLayer\\Services\\CartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:22:51.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderItemService.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Services\\OrderItemService.cs",
+              "RelativeDocumentMoniker": "EcommerceApplication-BuisnessLayer\\Services\\OrderItemService.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Services\\OrderItemService.cs",
+              "RelativeToolTip": "EcommerceApplication-BuisnessLayer\\Services\\OrderItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:22:35.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "EcommerceApplication-BuisnessLayer\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Services\\OrderService.cs",
+              "RelativeToolTip": "EcommerceApplication-BuisnessLayer\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:22:16.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "EcommerceApplication-BuisnessLayer\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Services\\ProductService.cs",
+              "RelativeToolTip": "EcommerceApplication-BuisnessLayer\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:22:00.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Services\\ICartService.cs",
+              "RelativeDocumentMoniker": "EcommerceApplication-BuisnessLayer\\Services\\ICartService.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Services\\ICartService.cs",
+              "RelativeToolTip": "EcommerceApplication-BuisnessLayer\\Services\\ICartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:21:25.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IOrderItemService.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Services\\IOrderItemService.cs",
+              "RelativeDocumentMoniker": "EcommerceApplication-BuisnessLayer\\Services\\IOrderItemService.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Services\\IOrderItemService.cs",
+              "RelativeToolTip": "EcommerceApplication-BuisnessLayer\\Services\\IOrderItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:21:10.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "EcommerceApplication-BuisnessLayer\\Services\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Services\\IOrderService.cs",
+              "RelativeToolTip": "EcommerceApplication-BuisnessLayer\\Services\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:20:52.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "EcommerceApplication-BuisnessLayer\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Services\\IProductService.cs",
+              "RelativeToolTip": "EcommerceApplication-BuisnessLayer\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:20:36.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceApplication-BuisnessLayer\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "EcommerceApplication-BuisnessLayer\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:18:40.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "EcommerceApplication-BuisnessLayer\\Class1.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Class1.cs",
+              "RelativeToolTip": "EcommerceApplication-BuisnessLayer\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:14:26.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

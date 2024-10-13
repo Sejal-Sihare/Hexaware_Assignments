@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|..\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|c:\\users\\sejal\\downloads\\casestudyecommerceapplication\\ecommerceapplication-buisnesslayer\\ecommerceapplication-buisnesslayer\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E6072A-CD0B-47A8-B841-CBCF3EE3AEBF}|EcommerceApplication-Application\\EcommerceApplication-Application.csproj|c:\\users\\sejal\\downloads\\casestudyecommerceapplication\\ecommerceapplication-application\\ecommerceapplication-application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E6072A-CD0B-47A8-B841-CBCF3EE3AEBF}|EcommerceApplication-Application\\EcommerceApplication-Application.csproj|solutionrelative:ecommerceapplication-application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|..\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|c:\\users\\sejal\\downloads\\casestudyecommerceapplication\\ecommerceapplication-buisnesslayer\\ecommerceapplication-buisnesslayer\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E6F2F6-CF1B-4D5E-A909-DC05798746A0}|..\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer.csproj|c:\\users\\sejal\\downloads\\casestudyecommerceapplication\\ecommerceapplication-buisnesslayer\\ecommerceapplication-buisnesslayer\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E21D16-F77F-4F78-A64E-3153E4C3A4CA}|..\\EcommerceApplication-CustomException\\EcommerceApplication-CustomException\\EcommerceApplication-CustomException.csproj|c:\\users\\sejal\\downloads\\casestudyecommerceapplication\\ecommerceapplication-customexception\\ecommerceapplication-customexception\\ordernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "..\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Services\\CustomerService.cs",
+              "RelativeToolTip": "..\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAzwBkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:43:52.367Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-Application\\EcommerceApplication-Application\\Program.cs",
+              "RelativeDocumentMoniker": "EcommerceApplication-Application\\Program.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-Application\\EcommerceApplication-Application\\Program.cs",
+              "RelativeToolTip": "EcommerceApplication-Application\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T10:48:22.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "..\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Repository\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "..\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Repository\\OrderRepository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwDQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T07:21:54.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-CustomException\\EcommerceApplication-CustomException\\OrderNotFoundException.cs",
+              "RelativeDocumentMoniker": "..\\EcommerceApplication-CustomException\\EcommerceApplication-CustomException\\OrderNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-CustomException\\EcommerceApplication-CustomException\\OrderNotFoundException.cs",
+              "RelativeToolTip": "..\\EcommerceApplication-CustomException\\EcommerceApplication-CustomException\\OrderNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T06:39:32.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Repository\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "..\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Repository\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Repository\\CustomerRepository.cs",
+              "RelativeToolTip": "..\\EcommerceApplication-BuisnessLayer\\EcommerceApplication-BuisnessLayer\\Repository\\CustomerRepository.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwBcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:22:43.999Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

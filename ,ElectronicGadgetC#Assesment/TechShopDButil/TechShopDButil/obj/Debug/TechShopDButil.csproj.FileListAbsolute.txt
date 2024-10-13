@@ -1,6 +1,0 @@
-C:\Users\Sejal\Downloads\,ElectronicGadgetC#Assesment\TechShopDButil\TechShopDButil\bin\Debug\TechShopDButil.dll
-C:\Users\Sejal\Downloads\,ElectronicGadgetC#Assesment\TechShopDButil\TechShopDButil\bin\Debug\TechShopDButil.pdb
-C:\Users\Sejal\Downloads\,ElectronicGadgetC#Assesment\TechShopDButil\TechShopDButil\obj\Debug\TechShopDButil.csproj.AssemblyReference.cache
-C:\Users\Sejal\Downloads\,ElectronicGadgetC#Assesment\TechShopDButil\TechShopDButil\obj\Debug\TechShopDButil.csproj.CoreCompileInputs.cache
-C:\Users\Sejal\Downloads\,ElectronicGadgetC#Assesment\TechShopDButil\TechShopDButil\obj\Debug\TechShopDButil.dll
-C:\Users\Sejal\Downloads\,ElectronicGadgetC#Assesment\TechShopDButil\TechShopDButil\obj\Debug\TechShopDButil.pdb

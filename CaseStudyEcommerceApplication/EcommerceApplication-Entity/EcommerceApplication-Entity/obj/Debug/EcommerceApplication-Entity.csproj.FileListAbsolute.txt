@@ -1,0 +1,6 @@
+C:\Users\Sejal\Downloads\CaseStudyEcommerceApplication\EcommerceApplication-Entity\EcommerceApplication-Entity\bin\Debug\EcommerceApplication-Entity.dll
+C:\Users\Sejal\Downloads\CaseStudyEcommerceApplication\EcommerceApplication-Entity\EcommerceApplication-Entity\bin\Debug\EcommerceApplication-Entity.pdb
+C:\Users\Sejal\Downloads\CaseStudyEcommerceApplication\EcommerceApplication-Entity\EcommerceApplication-Entity\obj\Debug\EcommerceApplication-Entity.csproj.AssemblyReference.cache
+C:\Users\Sejal\Downloads\CaseStudyEcommerceApplication\EcommerceApplication-Entity\EcommerceApplication-Entity\obj\Debug\EcommerceApplication-Entity.csproj.CoreCompileInputs.cache
+C:\Users\Sejal\Downloads\CaseStudyEcommerceApplication\EcommerceApplication-Entity\EcommerceApplication-Entity\obj\Debug\EcommerceApplication-Entity.dll
+C:\Users\Sejal\Downloads\CaseStudyEcommerceApplication\EcommerceApplication-Entity\EcommerceApplication-Entity\obj\Debug\EcommerceApplication-Entity.pdb

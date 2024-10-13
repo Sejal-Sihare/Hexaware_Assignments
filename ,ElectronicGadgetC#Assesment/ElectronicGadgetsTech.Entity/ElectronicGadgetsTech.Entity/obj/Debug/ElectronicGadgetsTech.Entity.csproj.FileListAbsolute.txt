@@ -1,6 +1,0 @@
-C:\Users\Sejal\Downloads\,ElectronicGadgetC#Assesment\ElectronicGadgetsTech.Entity\ElectronicGadgetsTech.Entity\bin\Debug\ElectronicGadgetsTech.Entity.dll
-C:\Users\Sejal\Downloads\,ElectronicGadgetC#Assesment\ElectronicGadgetsTech.Entity\ElectronicGadgetsTech.Entity\bin\Debug\ElectronicGadgetsTech.Entity.pdb
-C:\Users\Sejal\Downloads\,ElectronicGadgetC#Assesment\ElectronicGadgetsTech.Entity\ElectronicGadgetsTech.Entity\obj\Debug\ElectronicGadgetsTech.Entity.csproj.AssemblyReference.cache
-C:\Users\Sejal\Downloads\,ElectronicGadgetC#Assesment\ElectronicGadgetsTech.Entity\ElectronicGadgetsTech.Entity\obj\Debug\ElectronicGadgetsTech.Entity.csproj.CoreCompileInputs.cache
-C:\Users\Sejal\Downloads\,ElectronicGadgetC#Assesment\ElectronicGadgetsTech.Entity\ElectronicGadgetsTech.Entity\obj\Debug\ElectronicGadgetsTech.Entity.dll
-C:\Users\Sejal\Downloads\,ElectronicGadgetC#Assesment\ElectronicGadgetsTech.Entity\ElectronicGadgetsTech.Entity\obj\Debug\ElectronicGadgetsTech.Entity.pdb
