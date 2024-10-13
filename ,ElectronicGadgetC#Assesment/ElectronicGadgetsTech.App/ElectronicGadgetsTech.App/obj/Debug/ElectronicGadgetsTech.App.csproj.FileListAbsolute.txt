@@ -1,0 +1,14 @@
+C:\Users\Sejal\Downloads\,ElectronicGadgetC#Assesment\ElectronicGadgetsTech.App\ElectronicGadgetsTech.App\bin\Debug\ElectronicGadgetsTech.App.exe.config
+C:\Users\Sejal\Downloads\,ElectronicGadgetC#Assesment\ElectronicGadgetsTech.App\ElectronicGadgetsTech.App\bin\Debug\ElectronicGadgetsTech.App.exe
+C:\Users\Sejal\Downloads\,ElectronicGadgetC#Assesment\ElectronicGadgetsTech.App\ElectronicGadgetsTech.App\bin\Debug\ElectronicGadgetsTech.App.pdb
+C:\Users\Sejal\Downloads\,ElectronicGadgetC#Assesment\ElectronicGadgetsTech.App\ElectronicGadgetsTech.App\bin\Debug\ElectronicGadgetsTech.BuisnessLayer.dll
+C:\Users\Sejal\Downloads\,ElectronicGadgetC#Assesment\ElectronicGadgetsTech.App\ElectronicGadgetsTech.App\bin\Debug\ElectronicGadgetsTech.Entity.dll
+C:\Users\Sejal\Downloads\,ElectronicGadgetC#Assesment\ElectronicGadgetsTech.App\ElectronicGadgetsTech.App\bin\Debug\TechShopDButil.dll
+C:\Users\Sejal\Downloads\,ElectronicGadgetC#Assesment\ElectronicGadgetsTech.App\ElectronicGadgetsTech.App\bin\Debug\ElectronicGadgetsTech.BuisnessLayer.pdb
+C:\Users\Sejal\Downloads\,ElectronicGadgetC#Assesment\ElectronicGadgetsTech.App\ElectronicGadgetsTech.App\bin\Debug\ElectronicGadgetsTech.Entity.pdb
+C:\Users\Sejal\Downloads\,ElectronicGadgetC#Assesment\ElectronicGadgetsTech.App\ElectronicGadgetsTech.App\bin\Debug\TechShopDButil.pdb
+C:\Users\Sejal\Downloads\,ElectronicGadgetC#Assesment\ElectronicGadgetsTech.App\ElectronicGadgetsTech.App\obj\Debug\ElectronicGadgetsTech.App.csproj.AssemblyReference.cache
+C:\Users\Sejal\Downloads\,ElectronicGadgetC#Assesment\ElectronicGadgetsTech.App\ElectronicGadgetsTech.App\obj\Debug\ElectronicGadgetsTech.App.csproj.CoreCompileInputs.cache
+C:\Users\Sejal\Downloads\,ElectronicGadgetC#Assesment\ElectronicGadgetsTech.App\ElectronicGadgetsTech.App\obj\Debug\Electron.3BE73A78.Up2Date
+C:\Users\Sejal\Downloads\,ElectronicGadgetC#Assesment\ElectronicGadgetsTech.App\ElectronicGadgetsTech.App\obj\Debug\ElectronicGadgetsTech.App.exe
+C:\Users\Sejal\Downloads\,ElectronicGadgetC#Assesment\ElectronicGadgetsTech.App\ElectronicGadgetsTech.App\obj\Debug\ElectronicGadgetsTech.App.pdb

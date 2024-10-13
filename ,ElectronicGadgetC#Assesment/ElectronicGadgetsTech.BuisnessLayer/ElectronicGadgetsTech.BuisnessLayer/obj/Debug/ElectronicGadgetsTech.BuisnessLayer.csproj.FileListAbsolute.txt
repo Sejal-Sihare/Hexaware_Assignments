@@ -1,0 +1,10 @@
+C:\Users\Sejal\Downloads\,ElectronicGadgetC#Assesment\ElectronicGadgetsTech.BuisnessLayer\ElectronicGadgetsTech.BuisnessLayer\obj\Debug\ElectronicGadgetsTech.BuisnessLayer.csproj.AssemblyReference.cache
+C:\Users\Sejal\Downloads\,ElectronicGadgetC#Assesment\ElectronicGadgetsTech.BuisnessLayer\ElectronicGadgetsTech.BuisnessLayer\obj\Debug\ElectronicGadgetsTech.BuisnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Sejal\Downloads\,ElectronicGadgetC#Assesment\ElectronicGadgetsTech.BuisnessLayer\ElectronicGadgetsTech.BuisnessLayer\bin\Debug\ElectronicGadgetsTech.BuisnessLayer.pdb
+C:\Users\Sejal\Downloads\,ElectronicGadgetC#Assesment\ElectronicGadgetsTech.BuisnessLayer\ElectronicGadgetsTech.BuisnessLayer\bin\Debug\ElectronicGadgetsTech.Entity.dll
+C:\Users\Sejal\Downloads\,ElectronicGadgetC#Assesment\ElectronicGadgetsTech.BuisnessLayer\ElectronicGadgetsTech.BuisnessLayer\bin\Debug\ElectronicGadgetsTech.Entity.pdb
+C:\Users\Sejal\Downloads\,ElectronicGadgetC#Assesment\ElectronicGadgetsTech.BuisnessLayer\ElectronicGadgetsTech.BuisnessLayer\obj\Debug\Electron.00481807.Up2Date
+C:\Users\Sejal\Downloads\,ElectronicGadgetC#Assesment\ElectronicGadgetsTech.BuisnessLayer\ElectronicGadgetsTech.BuisnessLayer\obj\Debug\ElectronicGadgetsTech.BuisnessLayer.dll
+C:\Users\Sejal\Downloads\,ElectronicGadgetC#Assesment\ElectronicGadgetsTech.BuisnessLayer\ElectronicGadgetsTech.BuisnessLayer\obj\Debug\ElectronicGadgetsTech.BuisnessLayer.pdb
+C:\Users\Sejal\Downloads\,ElectronicGadgetC#Assesment\ElectronicGadgetsTech.BuisnessLayer\ElectronicGadgetsTech.BuisnessLayer\bin\Debug\TechShopDButil.dll
+C:\Users\Sejal\Downloads\,ElectronicGadgetC#Assesment\ElectronicGadgetsTech.BuisnessLayer\ElectronicGadgetsTech.BuisnessLayer\bin\Debug\TechShopDButil.pdb

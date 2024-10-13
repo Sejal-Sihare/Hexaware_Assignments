@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sejal\\Downloads\\,ElectronicGadgetC#Assesment\\TechShopDButil\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60A0F91B-3AF0-4F7F-ACC1-0C09FEFEB1AE}|TechShopDButil\\TechShopDButil.csproj|c:\\users\\sejal\\downloads\\,electronicgadgetc#assesment\\techshopdbutil\\techshopdbutil\\dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A0F91B-3AF0-4F7F-ACC1-0C09FEFEB1AE}|TechShopDButil\\TechShopDButil.csproj|solutionrelative:techshopdbutil\\dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBUtil.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\,ElectronicGadgetC#Assesment\\TechShopDButil\\TechShopDButil\\DBUtil.cs",
+              "RelativeDocumentMoniker": "TechShopDButil\\DBUtil.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\,ElectronicGadgetC#Assesment\\TechShopDButil\\TechShopDButil\\DBUtil.cs",
+              "RelativeToolTip": "TechShopDButil\\DBUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAACdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T09:10:28.002Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
