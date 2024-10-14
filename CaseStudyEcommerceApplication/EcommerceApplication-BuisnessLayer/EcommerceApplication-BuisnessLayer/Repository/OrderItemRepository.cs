@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace EcommerceApplication_BuisnessLayer.Repository
 {
-    internal class OrderItemRepository
+    public class OrderItemRepository
     {
+        // No methods in the case study To implenet in OrderItems Class
     }
 }

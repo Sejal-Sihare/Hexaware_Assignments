@@ -11,6 +11,7 @@ namespace EcommerceApplication_BuisnessLayer.Repository
 {
     public class ProductRepository : IProductRepository
     {
+        //Creating the new Product by passing the object of product
         public bool createProduct(Products product)
         {
             using (var conn = DbUtil.getDBConnection())
@@ -30,6 +31,7 @@ namespace EcommerceApplication_BuisnessLayer.Repository
             }
         }
 
+        // Deleting the product by passing the particular product id
         public bool deleteProduct(int Product_ID)
         {
             using (var conn = DbUtil.getDBConnection())

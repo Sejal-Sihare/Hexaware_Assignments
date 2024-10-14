@@ -14,6 +14,7 @@ namespace EcommerceApplication_BuisnessLayer.Repository
 {
     public class CustomerRepository : ICustomerRepository
     {
+        //Creating New Customer by passing the object of customer
         public bool createCustomer(Customers customer)
         {
             using (var conn = DbUtil.getDBConnection())
@@ -37,7 +38,7 @@ namespace EcommerceApplication_BuisnessLayer.Repository
         }
 
 
-
+        //Deleting the Customer by passing the Customer Id
         public bool deleteCustomer(int Customer_ID)
         {
             bool status = false;
@@ -61,7 +62,7 @@ namespace EcommerceApplication_BuisnessLayer.Repository
             }
             return status;
         }
-       
+       // Getting all the Customers from the database
         public void getAllCustomer()
         {
             using (var conn = DbUtil.getDBConnection())

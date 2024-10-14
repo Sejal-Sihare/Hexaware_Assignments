@@ -11,6 +11,7 @@ namespace EcommerceApplication_BuisnessLayer.Repository
 {
     public class OrderRepository : IOrderRepository
     {
+        // Getting thelist of Products orderd by the particular Customer
         public List<Products> getOrderByCustomer(int Customer_ID)
         {
             List<Products> products = new List<Products>();
@@ -42,7 +43,7 @@ namespace EcommerceApplication_BuisnessLayer.Repository
             return products;
         }
 
-
+        // Placing Order by passing the Orders object
        public bool placeOrder(Orders order)
         {
             using (var conn = DbUtil.getDBConnection())

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\DbUtilsEcommerceApplication\\",
+  "WorkspaceRootPath": "C:\\Users\\Sejal\\Downloads\\My_Assignments_Hexaware\\Hexaware_Assignments\\CaseStudyEcommerceApplication\\DbUtilsEcommerceApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B2B86E3-04C8-4FD1-ACBF-563D27B1E4E8}|DbUtilsEcommerceApplication\\DbUtilsEcommerceApplication.csproj|C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\DbUtilsEcommerceApplication\\dbutilsecommerceapplication\\dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B2B86E3-04C8-4FD1-ACBF-563D27B1E4E8}|DbUtilsEcommerceApplication\\DbUtilsEcommerceApplication.csproj|c:\\users\\sejal\\downloads\\my_assignments_hexaware\\hexaware_assignments\\casestudyecommerceapplication\\dbutilsecommerceapplication\\dbutilsecommerceapplication\\dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B2B86E3-04C8-4FD1-ACBF-563D27B1E4E8}|DbUtilsEcommerceApplication\\DbUtilsEcommerceApplication.csproj|solutionrelative:dbutilsecommerceapplication\\dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "DbUtil.cs",
-              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\DbUtilsEcommerceApplication\\DbUtilsEcommerceApplication\\DbUtil.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\My_Assignments_Hexaware\\Hexaware_Assignments\\CaseStudyEcommerceApplication\\DbUtilsEcommerceApplication\\DbUtilsEcommerceApplication\\DbUtil.cs",
               "RelativeDocumentMoniker": "DbUtilsEcommerceApplication\\DbUtil.cs",
-              "ToolTip": "C:\\Users\\Sejal\\Downloads\\CaseStudyEcommerceApplication\\DbUtilsEcommerceApplication\\DbUtilsEcommerceApplication\\DbUtil.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\My_Assignments_Hexaware\\Hexaware_Assignments\\CaseStudyEcommerceApplication\\DbUtilsEcommerceApplication\\DbUtilsEcommerceApplication\\DbUtil.cs",
               "RelativeToolTip": "DbUtilsEcommerceApplication\\DbUtil.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T14:40:38.356Z",
               "EditorCaption": ""

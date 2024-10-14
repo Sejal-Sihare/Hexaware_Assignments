@@ -11,6 +11,7 @@ namespace EcommerceApplication_BuisnessLayer.Repository
 {
     public class CartRepository : ICartRepository
     {
+        // Adding an item in the cart by passing the cartid,product object and customer object
         public bool addToCart(int Cart_ID, Products product, Customers customer, int Quantity)
         {
             using (var conn = DbUtil.getDBConnection())
@@ -33,6 +34,7 @@ namespace EcommerceApplication_BuisnessLayer.Repository
             }
         }
 
+        //Getting the list of products from cart for specific customerId
         public List<Products> getAllFromCart( int Customer_ID)
         {
              List<Products> products = new List<Products>();
@@ -59,6 +61,7 @@ namespace EcommerceApplication_BuisnessLayer.Repository
             
         
 
+        // removing the particular cart id entry from the cart
         public bool removeFromCart(int Cart_ID)
         {
             using (var conn = DbUtil.getDBConnection())

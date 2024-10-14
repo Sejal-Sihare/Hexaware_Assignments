@@ -52,11 +52,11 @@ namespace EcommerceApplication_Application
                         }
                         else
                         {
-                            Console.WriteLine("Can't be deleted");
+                            throw new CustomerNotFoundException();
                         }
                     }
 
-                    catch (Exception e)
+                    catch (CustomerNotFoundException e)
                     {
                         Console.WriteLine(e.Message);
                     }
@@ -97,13 +97,18 @@ namespace EcommerceApplication_Application
                     Console.WriteLine("Enter the Product Id you want to delete:");
                     int id3 = Convert.ToInt32(Console.ReadLine());
                     var result3 = productService.deleteProduct(id3);
-                    if (result3)
-                    {
-                        Console.WriteLine("Product is deleted");
+                    try{ if (result3)
+                        {
+                            Console.WriteLine("Product is deleted");
+                        }
+                        else
+                        {
+                            throw new ProductNotFoundException("The Product ID is unavailable");
+                        }
                     }
-                    else
+                    catch(ProductNotFoundException e)
                     {
-                        throw new ProductNotFoundException("The Product ID is unavailable");
+                        Console.WriteLine(e.Message);
                     }
 
                     break;
